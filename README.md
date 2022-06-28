@@ -13,7 +13,7 @@ Create .env.local file in root folder with following:
 # GITHUB API
 NEXT_PUBLIC_GITHUB_API=https://api.github.com
 # PERSONAL KEY
-NEXT_PUBLIC_ACCESS_TOKEN=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
+NEXT_PUBLIC_ACCESS_TOKEN= # Shared by email
 ```
 
 Install dependencies:
